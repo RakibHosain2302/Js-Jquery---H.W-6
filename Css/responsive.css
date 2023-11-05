@@ -1,0 +1,45 @@
+
+
+@media (min-width:320px) and (max-width:991px){
+
+    nav {
+        padding: 0px 0;
+    }
+    
+
+    .hide-show button {
+        margin-top: 20px;
+    }
+
+    .hide-show button {
+        padding: 1px 15px;
+        font-size: 15px;
+    }
+
+    
+    aside ul li {
+        margin-top: 15px;
+    }
+
+    aside {
+        padding: 0px 0;
+    }
+
+    aside a {
+        font-size: 20px;
+    }
+
+    .hide-show {
+        margin-left: -7%;
+    }
+
+    .box {
+        width: 300px;
+    }
+    .box img {
+        margin-left: 0%;
+        border-radius: 10px;
+        width: 300px;
+        height: 300px;
+}
+}
