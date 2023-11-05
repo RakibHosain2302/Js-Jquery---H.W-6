@@ -35,7 +35,7 @@ navBTn.click(() =>{
 
 
 $(window). on('load',() =>{
-    $('.preloader').fadeOut(2000)
+    $('.preloader').fadeOut(3000)
 })
 
 
